@@ -1,0 +1,109 @@
+{
+      "title": "PS4",
+      "currency": "$",
+      "filters": {
+            "min": "275",
+            "max": "650"
+      },
+      "base_link": "http://www.amazon.com",
+      "products": [
+            {
+                  "asin": "B08D45GCMJ",
+                  "url": "http://www.amazon.com/dp/B08D45GCMJ",
+                  "title": "Turtle Beach Stealth 700 Gen 2 Premium Wireless Gaming Headset for PlayStation 5 and PlayStation 4",
+                  "seller": "Visit the Turtle Beach Store",
+                  "price": 149.95
+            },
+            {
+                  "asin": "B00H0R9DSG",
+                  "url": "http://www.amazon.com/dp/B00H0R9DSG",
+                  "title": "GAEMS VANGUARD Personal Gaming Environment for Xbox One S, Xbox One, PS4, PS3, Xbox 360 (Consoles Not Included) - Xbox One",
+                  "seller": "Brand: GAEMS",
+                  "price": 299.99
+            },
+            {
+                  "asin": "B07SJVH95Y",
+                  "url": "http://www.amazon.com/dp/B07SJVH95Y",
+                  "title": "Case Club Waterproof Playstation 4 Portable Gaming Station with Built-in Monitor & Storage for PS4 Controllers & Games",
+                  "seller": "Visit the Case Club Store",
+                  "price": 349.95
+            },
+            {
+                  "asin": "B077QT6K94",
+                  "url": "http://www.amazon.com/dp/B077QT6K94",
+                  "title": "SONY PlayStation 4 Slim 1TB Console, Light & Slim PS4 System, 1TB Hard Drive, All the Greatest Games, TV, Music & More",
+                  "seller": "Brand: PlayStation",
+                  "price": 409.25
+            },
+            {
+                  "asin": "B07HHW8C4V",
+                  "url": "http://www.amazon.com/dp/B07HHW8C4V",
+                  "title": "PlayStation 4 Slim 1TB Console - Marvel's Spider-Man Bundle [Discontinued]",
+                  "seller": "Brand: PlayStation",
+                  "price": 448.0
+            },
+            {
+                  "asin": "B08X2VZX7X",
+                  "url": "http://www.amazon.com/dp/B08X2VZX7X",
+                  "title": "Sony Playstation 4 1TB Console - Black PS4 Slim Edition with 1TB Storage, one DS4 Wireless Controller and GalliumPi Dual PS4 Controller Charging Dock Bundle",
+                  "seller": "Visit the Sony Store",
+                  "price": 474.99
+            },
+            {
+                  "asin": "B08NGWDHXQ",
+                  "url": "http://www.amazon.com/dp/B08NGWDHXQ",
+                  "title": "2020 Playstation 4 PS4 Slim 1TB Console Holiday Bundle with Hubxcel Charging Dock Bundle",
+                  "seller": "Visit the Sony Store",
+                  "price": 476.98
+            },
+            {
+                  "asin": "B08232YKXB",
+                  "url": "http://www.amazon.com/dp/B08232YKXB",
+                  "title": "Newest Flagship Sony Play Station 4 1TB HDD Only on Playstation PS4 Console Slim Bundle - Included 3X Games (The Last of Us, God of War, Horizon Zero Dawn) 1TB Hard Drive Incredible Games -Jet Black",
+                  "seller": "Visit the Sony Store",
+                  "price": 479.95
+            },
+            {
+                  "asin": "B09184GVZP",
+                  "url": "http://www.amazon.com/dp/B09184GVZP",
+                  "title": "2021 Sony Playstation 4 1TB Console - Black PS4 Slim Edition with 1TB Storage Holiday Bundle: 1 DualShock Wireless Controller + Marxsol Dual PS4 Controller Fast Charging Dock",
+                  "seller": "Visit the Sony Store",
+                  "price": 488.0
+            },
+            {
+                  "asin": "B0891LH1D7",
+                  "url": "http://www.amazon.com/dp/B0891LH1D7",
+                  "title": "2020 Playstation 4 PS4 Slim 1TB Console Holiday Bundle, Light & Slim PS4 System, 1TB Hard Drive Ghost Manta Charging Station Dock Bundle",
+                  "seller": "Brand: Ghost Manta",
+                  "price": 499.99
+            },
+            {
+                  "asin": "B07YLDNTKB",
+                  "url": "http://www.amazon.com/dp/B07YLDNTKB",
+                  "title": "PlayStation 4 Slim 1TB Console - Only On PlayStation Bundle",
+                  "seller": "Brand: PlayStation",
+                  "price": 525.0
+            },
+            {
+                  "asin": "B08XDR4Z2T",
+                  "url": "http://www.amazon.com/dp/B08XDR4Z2T",
+                  "title": "PS4 2021 Ultimate Sports Edition | Includes: Playstation 4 Slim 1TB Console | DualShock 4 Wireless Controller for Playstation 4 | Madden NFL 21 | NBA 2K21 | KWALICABLE Accessory (Sports Bundle)",
+                  "seller": "Brand: KWALICABLE",
+                  "price": 529.0
+            },
+            {
+                  "asin": "B08G3RH2MB",
+                  "url": "http://www.amazon.com/dp/B08G3RH2MB",
+                  "title": "Mytrix Playstation 4 Slim 2TB Console with DualShock 4 Wireless Controller Bundle, Playstation Enhanced",
+                  "seller": "Brand: Mytrix",
+                  "price": 539.99
+            },
+            {
+                  "asin": "B08QJQS33T",
+                  "url": "http://www.amazon.com/dp/B08QJQS33T",
+                  "title": "NexiGo 2021 PS 4 Console Holiday Bundle 1TB HDD - PS4 Days of Play Limited Edition - Steel Black + NexiGo PS4 Controller Charging Station Bundle",
+                  "seller": "Visit the NexiGo Store",
+                  "price": 649.0
+            }
+      ]
+}
