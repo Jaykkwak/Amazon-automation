@@ -11,8 +11,8 @@ FILTERS = {
 }
 
 BASE_URL = 'http://www.amazon.com'
-USER = 'tjdtjdwo@gmail.com'
-PASSWORD = '26sjajs26'
+USER = ''
+PASSWORD = ''
 
 def get_chrome_web_driver(options):
     return webdriver.Chrome("./chromedriver", chrome_options=options)
